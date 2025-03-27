@@ -121,7 +121,8 @@ dot -Tpng rbtree.dot -o rbtree.png
 ```
 
 
-![rbtree1](https://github.com/user-attachments/assets/0e76be9c-9440-430d-9ab5-cee1a7d9724d)
+![Alt text](examples/rbtree1.png)
+
 
 
 The above is the result of inserting Fibonacci numbers that are less than 1000 into the tree. It can be seen that the tree satisfies all four properties mentioned in section 2 above.
